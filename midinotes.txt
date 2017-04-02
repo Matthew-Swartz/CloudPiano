@@ -1,0 +1,14 @@
+MIDI notes:
+Channels -> 1 through 15, all pretty much ascending pianos, except 9
+9 is a weird percussion channel
+
+Notes, increase in pitch as note value increases, note = 0 is silence
+
+for pictures:
+pil library
+numpy library
+>>install anaconda and use Python 2.7
+>>use PIL to sequentially crop pixels from the image and convert them into array
+
+Test .gif image name:
+AMA_N0R_0.gif"
